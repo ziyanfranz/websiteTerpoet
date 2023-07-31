@@ -379,13 +379,7 @@ Kurikulum yang diterapkan disini yaitu kurikulum 2013 dengan alokasi waktu selam
 
     <!-- Template Javascript -->
     <script src="js/main.js">
-        let alert = false;
-const interval = setInterval(()=>{
-    document.title = alert
-    ? 'Chat App': '(1) New Message'
-    alert = !alert;
-},1000);
-
+        
     </script>
 </body>
 

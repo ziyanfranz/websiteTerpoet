@@ -1,9 +1,3 @@
-let alert = false;
-const interval = setInterval(()=>{
-    document.title = alert
-    ? 'Chat App': '(1) New Message'
-    alert = !alert;
-},1000);
 
 
 
